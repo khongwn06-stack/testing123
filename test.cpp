@@ -16,6 +16,7 @@ double test_num(int a, int b){
 int main(){
 	int a, b;
 	
+	cout<<"Hello World!"<<endl;
 	cout<<"Enter a number for A : ";
 	cin>>a;
 	cout<<"Enter a number for B : ";
