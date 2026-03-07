@@ -25,15 +25,7 @@ int main(){
 	cout<<"Enter a number for B : ";
 	cin>>b;
 	
-//	int sum=a+b;
-//	int sub=a-b;
-//	int mul=a*b;
-//	int div=a/b;
-	
 	test_num(a,b);
-	
-//	cout<<"\nThe relationship for A and B : "<<endl;
-//	cout<<"Addtion : "<<sum<<"\nSubtraction : "<<sub<<"\nMultiplication : "<<mul<<"\nDivision : "<<div<<endl;
 	
 	return 0;
 }
