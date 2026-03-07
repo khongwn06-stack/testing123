@@ -8,7 +8,10 @@ double test_num(int a, int b){
 	double div=(double)a/b;
 	
 	cout<<"\nThe relationship for A and B : "<<endl;
-	cout<<"Addtion : "<<sum<<"\nSubtraction : "<<sub<<"\nMultiplication : "<<mul<<"\nDivision : "<<div<<endl;
+	cout<<"Addtion : \t\t"<<sum
+	<<"\nSubtraction : \t\t"<<sub
+	<<"\nMultiplication : \t"<<mul
+	<<"\nDivision : \t\t"<<div<<endl;
 	
 	return 1;
 }
