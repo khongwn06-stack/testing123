@@ -21,17 +21,25 @@ int main(){
 	int a, b;
 	double c;
 	
+<<<<<<< HEAD
 	cout<<"To find the relationship between A and B"<<endl;
+=======
+	cout<<"Hello World!"<<endl;
+>>>>>>> c07ad7d9315fa89b48f13ab6356b3d2732bf85e3
 	cout<<"Enter a number for A : ";
 	cin>>a;
 	cout<<"Enter a number for B : ";
 	cin>>b;
 	
 	test_num(a,b);
+<<<<<<< HEAD
 
 	cout<<"\nTo find the number after square root\nEnter a number : ";
 	cin>>c;
 	cout<<"Square root of "<<c<<" is "<<sqrt(c)<<endl;
 		
+=======
+	
+>>>>>>> c07ad7d9315fa89b48f13ab6356b3d2732bf85e3
 	return 0;
 }
